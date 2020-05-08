@@ -56,11 +56,15 @@ Exemple: *whois @Mrgotti#5607
 ```
 Exemple: *question Suis-je beau ?
 ```
+**suggestion**: Propose une suggestion ou les membres du serveur peuvent réagir positivement ou négativement.
+```
+Exemple: *suggestion Dois-ton faire un role modérateur?
+```
 **ping**: Affiche le ping du bot.
 
 **servinfo**: Affiche les informations du serveur.
 
-**Botinfo**: Affiche informations du bot.
+**botinfo**: Affiche informations du bot.
 
 
 
