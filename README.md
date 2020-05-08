@@ -1,4 +1,4 @@
-# CommandsGottibot
+# COMMANDES GOTTIBOT
 
 ```
 Bot créer par Mrgotti
