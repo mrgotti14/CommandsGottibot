@@ -73,6 +73,7 @@ Exemple: *dm Reunion ce soir a 21h!
 # QUIZZ
 
 **quizz**: Lance le quizz qui ce stopera seul si personne continue d'éssayer de repondre.
+
 **stop**: Stop le quizz après la dernière question.
 
 # MODERATION
