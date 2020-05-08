@@ -48,7 +48,7 @@ Exemple: *bug le bot ne fait pas de musique.
 ```
 Exemple: *sondage blablabla
 ```
-**whois** Affiche les informations de la personnes mentionné.
+**whois**: Affiche les informations de la personnes mentionné.
 ```
 Exemple: *whois @Mrgotti#5607
 ```
