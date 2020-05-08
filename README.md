@@ -18,3 +18,5 @@ Exemple: 1) Gp Soprano
 **Gn** : Passe a la musique suivante de la liste de lecture.
 
 **Gs** : Stop la lecture et déconnecte le bot du channel vocal.
+**Gpause** : Met la fonction musique en pause.
+**Gresume** : Reprend la lecture de la musique
