@@ -7,7 +7,7 @@ Prefix par defaut ==> *
 prefix par defaut Musique = G
 ```
 
-# Commandes Musique
+# COMMANDES MUSIQUE
 
 **Gp** : Lance une musique via un nom d'artiste, une musique, un lien Youtube. (vous pouvez mettre plusieurs musique d'affiler via cette commande. Elles seront ajouter a la liste de lecture.)
 ```
@@ -28,6 +28,10 @@ Exemple: 1) Gp Soprano
 Exemple: Gv 5 
 ```
 _Cela changera le volume du bot à 5. De préférence ne monter pas au dessus de 5 si vous voulez avoir une bonne qualité de son._
+
+# COMMANDES BOT
+
+__*bvn__
 
 
 
