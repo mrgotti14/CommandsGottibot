@@ -1,0 +1,2 @@
+# CommandsGottibot
+list command gottibot
