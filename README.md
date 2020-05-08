@@ -70,12 +70,12 @@ Exemple: *dm Reunion ce soir a 21h!
 
 **botinfo**: Affiche informations du bot.
 
-#Quizz
+# QUIZZ
 
 **quizz**: Lance le quizz qui ce stopera seul si personne continue d'éssayer de repondre.
 **stop**: Stop le quizz après la dernière question.
 
-#Modération
+# MODERATION
 // A venir...
 
 
