@@ -1,2 +1,2 @@
 # CommandsGottibot
-list command gottibot
+**list command gottibot**
