@@ -1,2 +1,3 @@
 # CommandsGottibot
-**list command gottibot**
+
+**Prefix par defaut ==> * **
