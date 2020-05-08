@@ -2,7 +2,7 @@
 
 ```
 Bot créer par Mrgotti
-Fonction Modération, Fun, Musique, Utils
+Fonction Modération, Fun, Musique, Utils, Antiraid, Anti Ddos.
 Prefix par defaut ==> *
 prefix par defaut Musique = G
 ```
