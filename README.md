@@ -1,3 +1,3 @@
 # CommandsGottibot
 
-**Prefix par defaut ==> * **
+**Prefix par defaut ==>** *
