@@ -16,4 +16,5 @@ Exemple: 1) Gp Soprano
          3) Gp https://www.youtube.com/watch?v=8hdBIi5c8ZE
 ```
 **Gn** : Passe a la musique suivante de la liste de lecture.
+
 **Gs** : Stop la lecture et déconnecte le bot du channel vocal.
