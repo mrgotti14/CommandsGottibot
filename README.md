@@ -27,7 +27,7 @@ Exemple: 1) Gp Soprano
 ```
 Exemple: Gv 5 
 ```
-*Cela changera le volume du bot à 5. De préférence ne monter pas au dessus de 5 si vous voulez avoir une bonne qualité de son. *
+*Cela changera le volume du bot à 5. De préférence ne monter pas au dessus de 5 si vous voulez avoir une bonne qualité de son.
 
 
 
