@@ -30,9 +30,9 @@ Exemple: Gv 5
 _Cela changera le volume du bot à 5. De préférence ne monter pas au dessus de 5 si vous voulez avoir une bonne qualité de son._
 
 # COMMANDES BOT
-**!IMPORTANT!** _les commandes seront afficher sans le prefix, si vous ne l'avez pas changer ce sera le Prefix de base a metre devant toute les commandes ===> *
+**!IMPORTANT!** _les commandes seront afficher sans le prefix, si vous ne l'avez pas changer ce sera le Prefix de base a metre devant toute les commandes ```*```
 
-_*bvn_ : 
+_bvn_ : 
 
 
 
