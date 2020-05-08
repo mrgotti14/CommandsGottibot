@@ -32,7 +32,7 @@ _Cela changera le volume du bot à 5. De préférence ne monter pas au dessus de
 # COMMANDES BOT
 **IMPORTANT!** Les commandes seront afficher sans le prefix, si vous ne l'avez pas changer ce sera le Prefix de base a mettre devant toute les commandes ```*```
 
-**bvn**: Souhaite la bienvenue au membre mentionné après la commande.
+**bvn**: Souhaite la bienvenue au membre mentionner après la commande.
 ```
 Exemple: *bvn @Mrgotti#5607
 ```
@@ -48,10 +48,22 @@ Exemple: *bug le bot ne fait pas de musique.
 ```
 Exemple: *sondage blablabla
 ```
-**whois**: Affiche les informations de la personnes mentionné.
+**whois**: Affiche les informations de la personnes mentionner.
 ```
 Exemple: *whois @Mrgotti#5607
 ```
+**question**: Le bot repond a votre question par une reponse affirmative ou négative.
+```
+Exemple: *question Suis-je beau ?
+```
+**ping**: Affiche le ping du bot.
+
+**servinfo**: Affiche les informations du serveur.
+
+**Botinfo**: Affiche informations du bot.
+
+
+
 
 
 
