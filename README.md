@@ -60,11 +60,16 @@ Exemple: *question Suis-je beau ?
 ```
 Exemple: *suggestion Dois-ton faire un role modérateur?
 ```
+**dm**: Envois un message privé a tous les membres du serveur.
+```
+Exemple: *dm Reunion ce soir a 21h!
+```
 **ping**: Affiche le ping du bot.
 
 **servinfo**: Affiche les informations du serveur.
 
 **botinfo**: Affiche informations du bot.
+
 
 
 
